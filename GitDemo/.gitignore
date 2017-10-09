@@ -1,1 +1,7 @@
+# ignore directories
 /target/
+/.settings/
+
+# ignore files
+.*
+*.md
